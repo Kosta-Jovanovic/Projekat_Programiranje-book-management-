@@ -1,0 +1,19 @@
+# Tehnički Zahtevi
+
+1. Dodavanje naslova knjige
+2. Dodavanje autora knjige
+3. Dodavanje godine izdavanja knjige
+4. Dodavanje žanra knjige
+5. Čuvanje knjiga u listi
+6. Pretraga knjige po naslovu
+7. Pretraga knjige po autoru
+8. Pretraga knjige po godini izdavanja
+9. Pretraga knjige po žanru
+10. Prikazivanje rezultata pretrage
+11. Izmena autora knjige
+12. Izmena naslova knjige
+13. Izmena godine izdavanja knjige
+14. Izmena žanra knjige
+15. Brisanje knjige
+16. Čuvanje knjiga u fajlu
+17. Učitavanje knjiga iz fajla
