@@ -6,7 +6,7 @@ Digitalna Biblioteka je aplikacija za upravljanje knjigama. Omogućava dodavanje
 
 1. Klonirajte repozitorijum:
    ```bash
-   git clone https://github.com/DusanMihajlica/Projekat_Iz_programiranja.git](https://github.com/Kosta-Jovanovic/Projekat_Programiranje-book-management-.git
+   git clone https:https://github.com/Kosta-Jovanovic/Projekat_Programiranje-book-management-.git
 2. Pokretanje apliikacije python src/main.py
 
 ## Funkcionalnosti
